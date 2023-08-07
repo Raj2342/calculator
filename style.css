@@ -1,0 +1,31 @@
+body{
+
+    background-color: lightgoldenrodyellow;
+}
+
+.outer-section{
+    background-color: rgb(238, 153, 144);
+    width: 30%;
+    height: 50%;
+    position: absolute;
+    top: 15rem;
+    left: 50rem;
+
+}
+
+.card{
+    width: 40rem;
+    height: 50rem;
+    background-color: red;
+    display: none;
+}
+
+.card-img-top{
+    
+    height:"10rem" ;
+    width:"1000rem";
+}
+
+.result{
+    display: none;
+}
